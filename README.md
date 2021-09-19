@@ -1,4 +1,3 @@
-# Longpoll 3.0.3 beta
 ## Содержание
 1. [Вступление](https://github.com/PAVELNEDELKO1100/phoenix_lp#Вступление)
 2. [Установка](https://github.com/PAVELNEDELKO1100/phoenix_lp#Установка)
