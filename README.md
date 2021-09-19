@@ -4,6 +4,7 @@
 3. [Команды](https://github.com/PAVELNEDELKO1100/phoenix_lp#Команды)
 4. [Архив с лп](https://github.com/PAVELNEDELKO1100/phoenix_lp#Архив)
 5. [Запуск](https://github.com/PAVELNEDELKO1100/phoenix_lp#Запуск)
+6. [Создатели](https://github.com/PAVELNEDELKO1100/phoenix_lp#Создатели)
 ## Вступление
 
 Этот проект был создан в целях популизации использования vk longpoll. Просмотрев данный код, Вы можете взять из него что-то себе,
@@ -72,3 +73,8 @@ pip install -r requirements.txt
 
 ## Запуск
 Запускать командой python3 start.py
+
+## Создатели
+Мои два Создателя:
+https://vk.com/cobakailya(Илья)
+https://vk.com/brilliantrussiatop(Павел)
