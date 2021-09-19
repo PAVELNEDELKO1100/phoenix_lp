@@ -76,5 +76,5 @@ pip install -r requirements.txt
 
 ## Создатели
 Мои два Создателя:
-https://vk.com/cobakailya(Илья)
-https://vk.com/brilliantrussiatop(Павел)
+https://vk.com/cobakailya (Илья)
+https://vk.com/brilliantrussiatop (Павел)
